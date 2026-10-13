@@ -10,6 +10,10 @@ The central product question is: **how can incomplete research support a useful 
 
 This public repository presents the technical case study and selected product images. The application source, research registers and deployment configuration remain private. The engineering and validation findings below describe the **7 October 2026 audit checkpoint**; they are not continuously updated production metrics.
 
+## Subsequent development
+
+[13 October 2026 progress checkpoint](docs/progress-2026-10-13.md): directory reconciliation, coverage and journey previews, and tested opportunity alerts. This is a later development-preview milestone; the audit below remains dated 7 October.
+
 ## Product at a glance
 
 | Area | Evidence at the checkpoint |
